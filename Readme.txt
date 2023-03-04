@@ -1,11 +1,10 @@
 ########################################################################################
 
-Name: Pratik 
 Research: Ensemble Machine Learning
 
 ########################################################################################
 
-Files submitted: heart.csv - dataset utilized for the research
+Files  :         heart.csv - dataset utilized for the research
                  Ensemble_Learning_Jasani.pdf - This file contains the final research results.
                  researchTesting.ipynb - The jupyter file used to analyze the data and generate resulted required for the research
                  IEEE Paper Format.doc - This file contains the instructions for the IEEE paper format.
